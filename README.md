@@ -22,3 +22,9 @@ El código tiene las siguientes funciones:
 - getDrsimiInfo: en esta función aplicamos el paradigma procedural ya que hacemos webscrapping en las páginas de los links de la farmacia Dr. Simi
 
 La clase principal que ocupa el código para guardar y mostrar la información es "Medicamento". Esta clase tiene sus propiedades privadas, setters y getters para modificar y acceder a la información de cada una de las instancias creadas.
+
+Integrantes:
+- Matías Fernández
+- Renata Frabasile
+- Benjamín González
+- José De la Barra
